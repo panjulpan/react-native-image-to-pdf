@@ -31,7 +31,7 @@ repositories {
 }
 
 dependencies {
-    compile 'com.facebook.react:react-native:+'
-    compile 'com.itextpdf:itextg:5.5.9'
+    implementation 'com.facebook.react:react-native:+'
+    implementation 'com.itextpdf:itextg:5.5.9'
 }
   
